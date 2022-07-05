@@ -1,5 +1,5 @@
 {
-  "name": "ignitekit/queue-messaging",
+  "name": "ignitekit/messages",
   "description": "Simple message broker abstractions. Supports RabbitMQ.",
   "type": "library",
   "autoload": {
